@@ -1,0 +1,13 @@
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.exe
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.deps.json
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.runtimeconfig.json
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.runtimeconfig.dev.json
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.dll
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\bin\Debug\netcoreapp3.1\Tugas_modul4.pdb
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.csprojAssemblyReference.cache
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.csproj.CoreCompileInputs.cache
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.AssemblyInfoInputs.cache
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.AssemblyInfo.cs
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.dll
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.pdb
+D:\Materi Sm.2 Tekkom\Praktikum DKP\Modul 4\Modul4_TugasGit\Tugas_modul4\Tugas_modul4\obj\Debug\netcoreapp3.1\Tugas_modul4.genruntimeconfig.cache
